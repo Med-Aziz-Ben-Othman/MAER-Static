@@ -1732,3 +1732,7 @@ section {
   color: #fff;
   text-decoration: none;
 }
+img {
+  box-shadow: 0px 0px 4px;
+    border-radius: 5px 
+}
